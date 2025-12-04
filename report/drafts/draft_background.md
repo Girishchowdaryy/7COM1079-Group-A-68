@@ -1,8 +1,16 @@
-# Section 2 – Background Research (Completed)
+# \# Section 2 – Background Research (Final)
 
-## 2.1 Research Papers (at least 3)
+# 
 
-Nonis and Hudson (2010) analysed study behaviours among undergraduates and found that study hours showed only a modest positive relationship with GPA. They highlighted that the effect becomes meaningful only when students combine longer hours with effective study strategies, such as structured note-taking and distributed practice. Credé and Phillips (2011), through a large meta-analysis, reported that time spent studying is a weak predictor of academic performance when compared with study quality, motivation, and self-regulation skills. They concluded that raw hours alone often fail to capture meaningful learning behaviours. Plant, Ericsson, Hill, and Asberg (2005) further argued that deliberate practice—high-quality focused learning—is more important than time quantity. Their research showed that students who engaged in structured study achieved better academic outcomes even when total study hours were similar. Together, these studies indicate that while studying more may help, it is far from the strongest predictor of GPA, and simple linear relationships tend to be small or inconsistent across samples. (≈200 words)
+# \## 2.1 Research Papers
 
-## 2.2 Why the Research Question Is of Interest
-Although many students believe that studying more hours should directly increase GPA, past research shows inconsistent and often weak correlations. This creates a gap in understanding whether additional study time meaningfully improves performance within smaller student samples such as those in our dataset. Our research question is relevant because it tests whether the expected positive trend appears in real student-reported data. Identifying a weak or non-existent relationship highlights the need for future studies that measure study quality, learning strategies, and psychological factors rather than focusing solely on hours spent studying. (≈100 words)
+# Nonis and Hudson (2010) examined how study time and strategy quality predict academic outcomes. They found that time alone is a weak predictor unless combined with structured learning behaviour. Credé and Phillips (2011) conducted a meta-analysis showing that study habits and motivation consistently outperform raw study hours in predicting GPA. Plant et al. (2005) argued that deliberate practice—high-quality focused study—produces better academic performance even when total hours are similar. Together, prior research highlights a small, inconsistent link between study hours and GPA.
+
+# 
+
+# \## 2.2 Research Gap and Interest
+
+# Students often assume more study hours always equal higher GPA, but research shows the relationship is weak and inconsistent. Most studies focus on large, diverse samples; far fewer examine smaller dataset contexts like ours. Evaluating whether the expected positive trend appears in real student-reported data helps identify whether hours alone matter or if other factors dominate. This gap justifies our research question and encourages future work exploring study strategies instead of raw time.
+
+
+
