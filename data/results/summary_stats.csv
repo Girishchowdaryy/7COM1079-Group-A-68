@@ -1,2 +1,2 @@
-n,mean_gpa,sd_gpa,mean_studyweek,sd_studyweek,min_gpa,max_gpa,min_studyweek,max_studyweek
-55,3.6000727272727273,0.33561827161587054,19.145454545454545,12.386399623090465,2.9,4.67,2,50
+n,mean_gpa,sd_gpa,median_gpa,iqr_gpa,min_gpa,max_gpa
+55,3.6000727272727273,0.33561827161587054,3.65,0.42500000000000027,2.9,4.67
