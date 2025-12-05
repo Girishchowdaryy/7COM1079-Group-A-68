@@ -3,3 +3,9 @@
 scripts/.RDataTmp
 scripts/.Rhistory
 *.RData
+.RData
+.Rhistory
+*.RData
+*.Rhistory
+scripts/.RDataTmp
+scripts/.Rhistory
